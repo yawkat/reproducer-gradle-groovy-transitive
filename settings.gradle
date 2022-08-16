@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-groovy-transitive'
+include 'main'
+include 'compileDep'
+include 'transitiveDep'
+
